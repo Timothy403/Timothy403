@@ -1,4 +1,4 @@
-## Hi there, I'm Timothy 👋
+## Hi there, I'm Timothy
 
 I'm an aspiring DevOps and Software Engineer with a passion for building and securing modern technology.
 
